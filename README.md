@@ -8,7 +8,7 @@ Useful work delegation to AI still needs clear intent, enough context, evidence,
 
 ## What I build
 
-- [Skills](https://github.com/simonasrazm/skills) - professional tools for nasty bugs, hard decisions and software that needs to work.
+- [Skills](https://github.com/simonasrazm/skills) - professional tools for productivity, nasty bugs, hard decisions and software that needs to work.
 - [SFLO](https://github.com/simonasrazm/simon-factory-lights-out) - a gated pipeline for building software with AI agents.
 - [Finally done](https://finallydone.ai/) - AI adoption, software factories, engineering and security work, plus the products I am building.
 
